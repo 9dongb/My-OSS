@@ -10,3 +10,11 @@
 - 깃이란
 - 깃의 기능
 - 깃의 장점
+
+## 03. 깃의 명령어
+- add, commit, log, show
+- clone, push, pull, fetch/merge
+- branch, checkout, switch, merge
+- fast forward merge, 3-way merge, rebase
+- conflict merge
+- reset revert
