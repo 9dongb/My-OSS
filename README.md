@@ -19,5 +19,4 @@
 - [clone, push, pull, fetch/merge](https://github.com/9dongb/My-OSS/blob/main/04.%20%EA%B9%83%EC%9D%98%20%EB%AA%85%EB%A0%B9%EC%96%B4/4.2%20clone%2C%20push%2C%20pull%2C%20fetch-merge.md)
 - branch, checkout, switch, merge
 - fast forward merge, 3-way merge, rebase
-- conflict merge
 - reset revert
