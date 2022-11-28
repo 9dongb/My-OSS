@@ -1,5 +1,5 @@
 # My-OSS
-나의 오픈소스소프트웨어(OSS) 저장소
+나의 오픈소프트웨어(OSS), 개인 공부 내용을 저장하는 깃허브 저장소
 
 ## 01. 마크다운(markdown)
 - [마크다운(markdown) 태그](https://github.com/9dongb/My-OSS/tree/main/01.%20%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4(markdown))
