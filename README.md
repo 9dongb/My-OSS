@@ -22,8 +22,8 @@
 - [reset revert](https://github.com/9dongb/My-OSS/blob/main/04.%20%EA%B9%83%EC%9D%98%20%EB%AA%85%EB%A0%B9%EC%96%B4/4.5%20reset%20revert.md)
 
 ## 05. CHEAT SHEET
-- GIT CHEAT SHEET
-- GITHUB CHEAT SHEET
+- [GIT CHEAT SHEET](https://github.com/9dongb/My-OSS/blob/main/05.%20Cheat%20Sheet/GIT%20CHEAT%20SHEET.pdf)
+- [GITHUB CHEAT SHEET](https://github.com/9dongb/My-OSS/blob/main/05.%20Cheat%20Sheet/GITHUB%20CHEAT%20SHEET.pdf)
 
 ## 06. JAVA
 - [ATM 추상화 코드](https://github.com/9dongb/My-OSS/tree/main/06.%20JAVA/ATM%20%EC%B6%94%EC%83%81%ED%99%94%20%EC%BD%94%EB%93%9C)
